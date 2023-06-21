@@ -1,0 +1,19 @@
+/* oneko, looks kinda odd with 47px */
+/**
+ * @name ULTIMAT THEME FOR MYSELF DUM SHIT
+ * @description Nuh uh
+ * @author TCC
+ * @version 1.0.0
+ * @authorId 1034381088316981309
+
+ */
+
+[class^="panels-3wFtMD"]::before {
+    content: "";
+    width: 47px;
+    height: 47px;
+    left: 185px;
+    margin-top: -47px;
+    position: absolute;
+    background-image: url('https://cdn.discordapp.com/emojis/1091853954045972530.gif?size=48&name=oneko_zzz&quality=lossless');
+}
